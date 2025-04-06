@@ -1,0 +1,4 @@
+id: zygisk_shamiko
+enable: true
+update_to: https://lsposed.org/releases/shamiko.json
+source: https://github.com/LSPosed
