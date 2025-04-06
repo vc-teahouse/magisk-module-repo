@@ -9,9 +9,46 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1743918335.170066
+    "timestamp": 1743919441.351643
   },
   "modules": [
+    {
+      "id": "HyperOSMonetProject",
+      "name": "HyperOS Monet Project (Free)",
+      "version": "v15.0.0",
+      "versionCode": 1500,
+      "author": "Monet Project Team",
+      "description": "Material You wallpaper-based dynamic theme for MIUI and HyperOS system apps on Android 12+. Requires Magisk 24.0+",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1741850859.0,
+      "size": 3605931,
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": null,
+        "source": "https://github.com/MIUI-Monet-Project/Module",
+        "antifeatures": null,
+        "build_metadata": "https://vc-teahouse.github.io/magisk-module-repo/modules/HyperOSMonetProject/track.yml"
+      },
+      "versions": [
+        {
+          "timestamp": 1714566253.0,
+          "version": "v13.0.0",
+          "versionCode": 1300,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/HyperOSMonetProject/v13.0.0_1300.zip",
+          "changelog": "",
+          "size": 3343108
+        },
+        {
+          "timestamp": 1741850859.0,
+          "version": "v15.0.0",
+          "versionCode": 1500,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/HyperOSMonetProject/v15.0.0_1500.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/HyperOSMonetProject/v15.0.0_1500.md",
+          "size": 3605931
+        }
+      ]
+    },
     {
       "id": "Monet-All",
       "name": "Monet-All",

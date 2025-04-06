@@ -9,6 +9,14 @@
       "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/HyperOSMonetProject/v13.0.0_1300.zip",
       "changelog": "",
       "size": 3343108
+    },
+    {
+      "timestamp": 1741850859.0,
+      "version": "v15.0.0",
+      "versionCode": 1500,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/HyperOSMonetProject/v15.0.0_1500.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/HyperOSMonetProject/v15.0.0_1500.md",
+      "size": 3605931
     }
   ]
 }

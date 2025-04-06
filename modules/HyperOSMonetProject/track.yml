@@ -3,5 +3,5 @@ enable: true
 update_to: https://github.com/MIUI-Monet-Project/Module/releases/download/v15.0.0/MonetProject-HyperOS-v15.0.0-free.zip
 changelog: https://github.com/MIUI-Monet-Project/Module/raw/main/CHANGELOG.md
 source: https://github.com/MIUI-Monet-Project/Module
-last_update: 1714566253.0
-versions: 1
+last_update: 1741850859.0
+versions: 2
