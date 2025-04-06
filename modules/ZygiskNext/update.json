@@ -1,0 +1,14 @@
+{
+  "id": "ZygiskNext",
+  "timestamp": 1743093744.0,
+  "versions": [
+    {
+      "timestamp": 1743093744.0,
+      "version": "1.2.8 (512-4b5d6ad-release)",
+      "versionCode": 512,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.2.8_512-4b5d6ad-release.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.2.8_512-4b5d6ad-release.md",
+      "size": 3519779
+    }
+  ]
+}
