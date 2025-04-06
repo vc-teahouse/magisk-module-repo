@@ -1,0 +1,4 @@
+id: asoulopt
+enable: true
+source: https://github.com/nakixii/Magisk_AsoulOpt
+update_to: https://github.com/nakixii/Magisk_AsoulOpt/raw/main/AsoulOpt.json
