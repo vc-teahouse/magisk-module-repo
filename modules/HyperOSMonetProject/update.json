@@ -1,0 +1,14 @@
+{
+  "id": "HyperOSMonetProject",
+  "timestamp": 1714566253.0,
+  "versions": [
+    {
+      "timestamp": 1714566253.0,
+      "version": "v13.0.0",
+      "versionCode": 1300,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/HyperOSMonetProject/v13.0.0_1300.zip",
+      "changelog": "",
+      "size": 3343108
+    }
+  ]
+}
