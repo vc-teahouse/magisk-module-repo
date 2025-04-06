@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1743911532.607219
+    "timestamp": 1743912319.819752
   },
   "modules": [
     {
@@ -148,6 +148,49 @@
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/bindhosts/v2.0.0_200.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/bindhosts/v2.0.0_200.md",
           "size": 77407
+        }
+      ]
+    },
+    {
+      "id": "lsposed_riru",
+      "name": "Riru - LSPosed",
+      "version": "v1.9.2 (7024)",
+      "versionCode": 7024,
+      "author": "LSPosed Developers",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Riru 26.1.7 or above installed.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1697034839.0,
+      "size": 2456753,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP",
+        "magisk.permission.SEPOLICY",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true,
+        "sepolicy": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/LSPosed/LSPosed",
+        "antifeatures": null,
+        "build_metadata": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_riru/track.yml"
+      },
+      "versions": [
+        {
+          "timestamp": 1697034839.0,
+          "version": "v1.9.2 (7024)",
+          "versionCode": 7024,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_riru/v1.9.2_7024.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_riru/v1.9.2_7024.md",
+          "size": 2456753
         }
       ]
     },

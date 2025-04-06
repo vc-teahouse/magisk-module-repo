@@ -1,0 +1,14 @@
+{
+  "id": "lsposed_riru",
+  "timestamp": 1697034839.0,
+  "versions": [
+    {
+      "timestamp": 1697034839.0,
+      "version": "v1.9.2 (7024)",
+      "versionCode": 7024,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_riru/v1.9.2_7024.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_riru/v1.9.2_7024.md",
+      "size": 2456753
+    }
+  ]
+}
