@@ -1,0 +1,5 @@
+id: Monet-All
+enable: true
+update_to: https://monet.jerryz.com.cn/Monet-All.json
+source: https://github.com/YangguangZhou/Monet-All
+
