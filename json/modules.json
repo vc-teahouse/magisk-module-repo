@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1743913242.796873
+    "timestamp": 1743913814.447749
   },
   "modules": [
     {
@@ -366,6 +366,45 @@
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/riru_sui/v13.5.1_319.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/riru_sui/v13.5.1_319.md",
           "size": 1066493
+        }
+      ]
+    },
+    {
+      "id": "uperf",
+      "name": "Uperf",
+      "version": "v3(22.09.04)",
+      "versionCode": 220904,
+      "author": "Matt Yang",
+      "description": "Userspace performance controller for android. Repo: https://github.com/yc9559/uperf/",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1662284111.0,
+      "size": 1729248,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/yc9559/uperf",
+        "antifeatures": null,
+        "build_metadata": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf/track.yml"
+      },
+      "versions": [
+        {
+          "timestamp": 1662284111.0,
+          "version": "v3(22.09.04)",
+          "versionCode": 220904,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf/v322.09.04_220904.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf/v322.09.04_220904.md",
+          "size": 1729248
         }
       ]
     },
