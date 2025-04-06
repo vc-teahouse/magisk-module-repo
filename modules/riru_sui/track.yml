@@ -2,4 +2,5 @@ id: riru_sui
 enable: true
 update_to: https://rikkaapps.github.io/release/sui_riru.json
 source: https://github.com/RikkaApps/Sui
-
+last_update: 1695131133.0
+versions: 1

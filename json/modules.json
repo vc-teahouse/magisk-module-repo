@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1743912319.819752
+    "timestamp": 1743913242.796873
   },
   "modules": [
     {
@@ -290,6 +290,86 @@
       ]
     },
     {
+      "id": "riru_core",
+      "name": "Riru",
+      "version": "v26.1.7.r530.ab3086ec9f",
+      "versionCode": 530,
+      "author": "Rikka, yujincheng08",
+      "description": "Inject into zygote and run codes from \"Riru\" modules in apps or the system server. Support modules which use Riru API v24+.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1662833322.0,
+      "size": 169839,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": null,
+        "source": "https://github.com/RikkaApps/Riru",
+        "antifeatures": null,
+        "build_metadata": "https://vc-teahouse.github.io/magisk-module-repo/modules/riru_core/track.yml"
+      },
+      "versions": [
+        {
+          "timestamp": 1662833322.0,
+          "version": "v26.1.7.r530.ab3086ec9f",
+          "versionCode": 530,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/riru_core/v26.1.7.r530.ab3086ec9f_530.zip",
+          "changelog": "",
+          "size": 169839
+        }
+      ]
+    },
+    {
+      "id": "riru_sui",
+      "name": "Riru - Sui",
+      "version": "v13.5.1",
+      "versionCode": 319,
+      "author": "Rikka",
+      "description": "Modern superuser interface implementation. This module requires Riru v25.0.0 or above.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1695131133.0,
+      "size": 1066493,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "post_fs_data": true,
+        "sepolicy": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/RikkaApps/Sui",
+        "antifeatures": null,
+        "build_metadata": "https://vc-teahouse.github.io/magisk-module-repo/modules/riru_sui/track.yml"
+      },
+      "versions": [
+        {
+          "timestamp": 1695131133.0,
+          "version": "v13.5.1",
+          "versionCode": 319,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/riru_sui/v13.5.1_319.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/riru_sui/v13.5.1_319.md",
+          "size": 1066493
+        }
+      ]
+    },
+    {
       "id": "uperf_games",
       "name": "Uperf Game Turbo",
       "version": "\ufe0f1.42 based on uperf 904",
@@ -325,6 +405,45 @@
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.42_based_on_uperf_904_250223.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.42_based_on_uperf_904_250223.md",
           "size": 1892061
+        }
+      ]
+    },
+    {
+      "id": "zygisk_sui",
+      "name": "Zygisk - Sui",
+      "version": "v13.5.1",
+      "versionCode": 319,
+      "author": "Rikka",
+      "description": "Modern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1695131134.0,
+      "size": 1070639,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "post_fs_data": true,
+        "sepolicy": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/RikkaApps/Sui",
+        "antifeatures": null,
+        "build_metadata": "https://vc-teahouse.github.io/magisk-module-repo/modules/zygisk_sui/track.yml"
+      },
+      "versions": [
+        {
+          "timestamp": 1695131134.0,
+          "version": "v13.5.1",
+          "versionCode": 319,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/zygisk_sui/v13.5.1_319.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/zygisk_sui/v13.5.1_319.md",
+          "size": 1070639
         }
       ]
     }

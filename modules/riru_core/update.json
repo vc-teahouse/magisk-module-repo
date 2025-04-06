@@ -1,0 +1,14 @@
+{
+  "id": "riru_core",
+  "timestamp": 1662833322.0,
+  "versions": [
+    {
+      "timestamp": 1662833322.0,
+      "version": "v26.1.7.r530.ab3086ec9f",
+      "versionCode": 530,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/riru_core/v26.1.7.r530.ab3086ec9f_530.zip",
+      "changelog": "",
+      "size": 169839
+    }
+  ]
+}

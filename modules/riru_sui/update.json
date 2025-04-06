@@ -1,0 +1,14 @@
+{
+  "id": "riru_sui",
+  "timestamp": 1695131133.0,
+  "versions": [
+    {
+      "timestamp": 1695131133.0,
+      "version": "v13.5.1",
+      "versionCode": 319,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/riru_sui/v13.5.1_319.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/riru_sui/v13.5.1_319.md",
+      "size": 1066493
+    }
+  ]
+}
