@@ -1,0 +1,4 @@
+id: lsposed_riru
+enable: true
+update_to: https://lsposed.github.io/LSPosed/release/riru.json
+source: https://github.com/LSPosed/LSPosed
