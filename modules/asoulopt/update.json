@@ -1,0 +1,14 @@
+{
+  "id": "asoulopt",
+  "timestamp": 1739148198.0,
+  "versions": [
+    {
+      "timestamp": 1739148198.0,
+      "version": "Kanade",
+      "versionCode": 273,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Kanade_273.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Kanade_273.md",
+      "size": 14217
+    }
+  ]
+}
