@@ -2,3 +2,5 @@ id: uperf
 enable: true
 update_to: https://github.com/yc9559/uperf/raw/master/version.json
 source: https://github.com/yc9559/uperf
+last_update: 1662284111.0
+versions: 1

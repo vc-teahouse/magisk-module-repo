@@ -1,0 +1,14 @@
+{
+  "id": "uperf",
+  "timestamp": 1662284111.0,
+  "versions": [
+    {
+      "timestamp": 1662284111.0,
+      "version": "v3(22.09.04)",
+      "versionCode": 220904,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf/v322.09.04_220904.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf/v322.09.04_220904.md",
+      "size": 1729248
+    }
+  ]
+}
