@@ -1,11 +1,11 @@
 {
-  "name": "Template Magisk Modules Repository",
-  "website": null,
-  "support": null,
+  "name": "luyanci's useful module repo",
+  "website": "https://luyanci.github.io",
+  "support": "https://github.com/vc-teahouse/magisk-module-repo",
   "donate": null,
-  "submission": null,
-  "base_url": "https://example.com/",
-  "description": null,
+  "submission": "https://github.com/vc-teahouse/magisk-module-repo",
+  "base_url": "https://vc-teahouse.github.io/magisk-module-repo/",
+  "description": "luyanci's useful module repo",
   "max_num": 2,
   "enable_log": true,
   "log_dir": "log"
