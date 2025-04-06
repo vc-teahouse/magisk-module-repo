@@ -9,9 +9,50 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1743907591.622484
+    "timestamp": 1743908229.827608
   },
   "modules": [
+    {
+      "id": "ZygiskNext",
+      "name": "Zygisk Next",
+      "version": "1.2.8 (512-4b5d6ad-release)",
+      "versionCode": 512,
+      "author": "5ec1cff, Nullptr",
+      "description": "Standalone implementation of Zygisk.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1743093744.0,
+      "size": 3519779,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/Dr-TSNG/ZygiskNext",
+        "antifeatures": null,
+        "build_metadata": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/track.yml"
+      },
+      "versions": [
+        {
+          "timestamp": 1743093744.0,
+          "version": "1.2.8 (512-4b5d6ad-release)",
+          "versionCode": 512,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.2.8_512-4b5d6ad-release.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.2.8_512-4b5d6ad-release.md",
+          "size": 3519779
+        }
+      ]
+    },
     {
       "id": "asoulopt",
       "name": "A-SOUL Games Optimization",
@@ -107,6 +148,51 @@
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/bindhosts/v2.0.0_200.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/bindhosts/v2.0.0_200.md",
           "size": 77407
+        }
+      ]
+    },
+    {
+      "id": "lsposed_zygisk",
+      "name": "Zygisk - LSPosed",
+      "version": "v1.10.1 (7115)",
+      "versionCode": 7115,
+      "author": "Jing Matrix & LSPosed Developers",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 15. Requires Magisk 26.0+ and Zygisk enabled.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1729070017.0,
+      "size": 2608607,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP",
+        "magisk.permission.SEPOLICY",
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true,
+        "sepolicy": true,
+        "webroot": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/JingMatrix/LSPosed",
+        "antifeatures": null,
+        "build_metadata": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/track.yml"
+      },
+      "versions": [
+        {
+          "timestamp": 1729070017.0,
+          "version": "v1.10.1 (7115)",
+          "versionCode": 7115,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.10.1_7115.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.10.1_7115.md",
+          "size": 2608607
         }
       ]
     },
