@@ -1,0 +1,4 @@
+id: riru_core
+enable: true
+update_to: https://github.com/RikkaApps/Riru/releases/download/v26.1.7/riru-v26.1.7.r530.ab3086ec9f-release.zip
+source: https://github.com/RikkaApps/Riru
