@@ -9,9 +9,44 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1743913814.447749
+    "timestamp": 1743918335.170066
   },
   "modules": [
+    {
+      "id": "Monet-All",
+      "name": "Monet-All",
+      "version": "v2.1",
+      "versionCode": 210,
+      "author": "Jerry Zhou",
+      "description": "\u83ab\u5948\u53d6\u8272\u6574\u5408\u6a21\u5757 \u8bf4\u660e\u6587\u6863\uff1amonet.jerryz.com.cn",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1721468158.0,
+      "size": 424238,
+      "permissions": [
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/YangguangZhou/Monet-All",
+        "antifeatures": null,
+        "build_metadata": "https://vc-teahouse.github.io/magisk-module-repo/modules/Monet-All/track.yml"
+      },
+      "versions": [
+        {
+          "timestamp": 1721468158.0,
+          "version": "v2.1",
+          "versionCode": 210,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/Monet-All/v2.1_210.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/Monet-All/v2.1_210.md",
+          "size": 424238
+        }
+      ]
+    },
     {
       "id": "ZygiskNext",
       "name": "Zygisk Next",

@@ -1,0 +1,14 @@
+{
+  "id": "Monet-All",
+  "timestamp": 1721468158.0,
+  "versions": [
+    {
+      "timestamp": 1721468158.0,
+      "version": "v2.1",
+      "versionCode": 210,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/Monet-All/v2.1_210.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/Monet-All/v2.1_210.md",
+      "size": 424238
+    }
+  ]
+}
