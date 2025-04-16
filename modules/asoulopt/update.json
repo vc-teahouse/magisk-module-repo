@@ -9,6 +9,14 @@
       "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Kanade_273.zip",
       "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Kanade_273.md",
       "size": 14217
+    },
+    {
+      "timestamp": 1744795995.0,
+      "version": "Mizuki",
+      "versionCode": 274,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Mizuki_274.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Mizuki_274.md",
+      "size": 14421
     }
   ]
 }
