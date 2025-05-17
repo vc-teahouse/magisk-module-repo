@@ -9,6 +9,14 @@
       "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.42_based_on_uperf_904_250223.zip",
       "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.42_based_on_uperf_904_250223.md",
       "size": 1892061
+    },
+    {
+      "timestamp": 1747495521.0,
+      "version": "\ufe0f1.43 based on uperf 904",
+      "versionCode": 250410,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.43_based_on_uperf_904_250410.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.43_based_on_uperf_904_250410.md",
+      "size": 1912987
     }
   ]
 }
