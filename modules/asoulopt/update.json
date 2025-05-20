@@ -3,20 +3,20 @@
   "timestamp": 1739148198.0,
   "versions": [
     {
-      "timestamp": 1739148198.0,
-      "version": "Kanade",
-      "versionCode": 273,
-      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Kanade_273.zip",
-      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Kanade_273.md",
-      "size": 14217
-    },
-    {
       "timestamp": 1744795995.0,
       "version": "Mizuki",
       "versionCode": 274,
       "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Mizuki_274.zip",
       "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Mizuki_274.md",
       "size": 14421
+    },
+    {
+      "timestamp": 1747729427.0,
+      "version": "Enanan",
+      "versionCode": 275,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Enanan_275.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Enanan_275.md",
+      "size": 14722
     }
   ]
 }
