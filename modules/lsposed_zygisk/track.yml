@@ -1,6 +1,6 @@
-id: lsposed_zygisk
 enable: true
-update_to: https://raw.githubusercontent.com/JingMatrix/LSPosed/master/magisk-loader/update/zygisk.json
+id: lsposed_zygisk
+last_update: 1752362984.0
 source: https://github.com/JingMatrix/LSPosed
-last_update: 1729070017.0
-versions: 1
+update_to: https://raw.githubusercontent.com/JingMatrix/LSPosed/master/magisk-loader/update/zygisk.json
+versions: 2

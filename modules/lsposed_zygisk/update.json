@@ -9,6 +9,14 @@
       "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.10.1_7115.zip",
       "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.10.1_7115.md",
       "size": 2608607
+    },
+    {
+      "timestamp": 1752362984.0,
+      "version": "v1.10.2 (7182)",
+      "versionCode": 7182,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.10.2_7182.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.10.2_7182.md",
+      "size": 6507377
     }
   ]
 }
