@@ -1,6 +1,6 @@
-id: asoulopt
 enable: true
-update_to: https://github.com/nakixii/Magisk_AsoulOpt/raw/main/AsoulOpt.json
+id: asoulopt
+last_update: 1753203209.0
 source: https://github.com/nakixii/Magisk_AsoulOpt
-last_update: 1747729427.0
+update_to: https://github.com/nakixii/Magisk_AsoulOpt/raw/main/AsoulOpt.json
 versions: 2

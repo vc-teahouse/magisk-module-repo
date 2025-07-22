@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1753189128.666336
+    "timestamp": 1753209613.171949
   },
   "modules": [
     {
@@ -128,14 +128,14 @@
     {
       "id": "asoulopt",
       "name": "A-SOUL Games Optimization",
-      "version": "Enanan",
-      "versionCode": 275,
+      "version": "Mafuyu",
+      "versionCode": 276,
       "author": "nakixii",
       "description": "Game threads tweaker for Android.",
       "verified": false,
       "added": 0,
-      "timestamp": 1747729427.0,
-      "size": 14722,
+      "timestamp": 1753203209.0,
+      "size": 15064,
       "permissions": [
         "magisk.permission.SERVICE"
       ],
@@ -151,20 +151,20 @@
       },
       "versions": [
         {
-          "timestamp": 1744795995.0,
-          "version": "Mizuki",
-          "versionCode": 274,
-          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Mizuki_274.zip",
-          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Mizuki_274.md",
-          "size": 14421
-        },
-        {
           "timestamp": 1747729427.0,
           "version": "Enanan",
           "versionCode": 275,
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Enanan_275.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Enanan_275.md",
           "size": 14722
+        },
+        {
+          "timestamp": 1753203209.0,
+          "version": "Mafuyu",
+          "versionCode": 276,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Mafuyu_276.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Mafuyu_276.md",
+          "size": 15064
         }
       ]
     },
