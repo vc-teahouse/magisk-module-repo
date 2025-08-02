@@ -3,20 +3,20 @@
   "timestamp": 1743662687.0,
   "versions": [
     {
-      "timestamp": 1747495521.0,
-      "version": "\ufe0f1.43 based on uperf 904",
-      "versionCode": 250410,
-      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.43_based_on_uperf_904_250410.zip",
-      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.43_based_on_uperf_904_250410.md",
-      "size": 1912987
-    },
-    {
       "timestamp": 1750991173.0,
       "version": "\ufe0f1.44 based on uperf 904",
       "versionCode": 250510,
       "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.44_based_on_uperf_904_250510.zip",
       "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.44_based_on_uperf_904_250510.md",
       "size": 1921401
+    },
+    {
+      "timestamp": 1754102171.0,
+      "version": "\ufe0f1.45 based on uperf 904",
+      "versionCode": 250602,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.45_based_on_uperf_904_250602.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.45_based_on_uperf_904_250602.md",
+      "size": 1926274
     }
   ]
 }

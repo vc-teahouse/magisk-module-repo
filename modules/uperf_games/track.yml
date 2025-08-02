@@ -1,6 +1,6 @@
-id: uperf_games
 enable: true
-update_to: https://github.com/yinwanxi/Uperf-Game-Turbo/raw/master/version.json
+id: uperf_games
+last_update: 1754102171.0
 source: https://github.com/yinwanxi/Uperf-Game-Turbo
-last_update: 1750991173.0
+update_to: https://github.com/yinwanxi/Uperf-Game-Turbo/raw/master/version.json
 versions: 2
