@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1755655252.635547
+    "timestamp": 1755671918.42012
   },
   "modules": [
     {
@@ -128,14 +128,14 @@
     {
       "id": "asoulopt",
       "name": "A-SOUL Games Optimization",
-      "version": "Mafuyu",
-      "versionCode": 276,
+      "version": "Arona",
+      "versionCode": 277,
       "author": "nakixii",
       "description": "Game threads tweaker for Android.",
       "verified": false,
       "added": 0,
-      "timestamp": 1753203209.0,
-      "size": 15064,
+      "timestamp": 1755660787.0,
+      "size": 17363,
       "permissions": [
         "magisk.permission.SERVICE"
       ],
@@ -151,20 +151,20 @@
       },
       "versions": [
         {
-          "timestamp": 1747729427.0,
-          "version": "Enanan",
-          "versionCode": 275,
-          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Enanan_275.zip",
-          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Enanan_275.md",
-          "size": 14722
-        },
-        {
           "timestamp": 1753203209.0,
           "version": "Mafuyu",
           "versionCode": 276,
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Mafuyu_276.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Mafuyu_276.md",
           "size": 15064
+        },
+        {
+          "timestamp": 1755660787.0,
+          "version": "Arona",
+          "versionCode": 277,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Arona_277.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Arona_277.md",
+          "size": 17363
         }
       ]
     },
