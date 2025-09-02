@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1756778336.741062
+    "timestamp": 1756795070.674184
   },
   "modules": [
     {
@@ -87,14 +87,14 @@
     {
       "id": "ZygiskNext",
       "name": "Zygisk Next",
-      "version": "1.2.8 (512-4b5d6ad-release)",
-      "versionCode": 512,
+      "version": "1.2.9.1 (534-b8e7e21-release)",
+      "versionCode": 534,
       "author": "5ec1cff, Nullptr",
       "description": "Standalone implementation of Zygisk.",
       "verified": false,
       "added": 0,
-      "timestamp": 1743093744.0,
-      "size": 3519779,
+      "timestamp": 1752661306.0,
+      "size": 5072373,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -122,6 +122,14 @@
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.2.8_512-4b5d6ad-release.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.2.8_512-4b5d6ad-release.md",
           "size": 3519779
+        },
+        {
+          "timestamp": 1752661306.0,
+          "version": "1.2.9.1 (534-b8e7e21-release)",
+          "versionCode": 534,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.2.9.1_534-b8e7e21-release.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.2.9.1_534-b8e7e21-release.md",
+          "size": 5072373
         }
       ]
     },
