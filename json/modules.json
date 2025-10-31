@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1761915253.634482
+    "timestamp": 1761935822.973024
   },
   "modules": [
     {
@@ -87,14 +87,14 @@
     {
       "id": "ZygiskNext",
       "name": "Zygisk Next",
-      "version": "1.3.0-RC3 (620-316eada-release)",
-      "versionCode": 620,
+      "version": "1.3.0-RC4 (638-45eea2d-release)",
+      "versionCode": 638,
       "author": "5ec1cff, Nullptr",
       "description": "Standalone implementation of Zygisk.",
       "verified": false,
       "added": 0,
-      "timestamp": 1760111643.0,
-      "size": 6298158,
+      "timestamp": 1761488962.0,
+      "size": 6346123,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -116,20 +116,20 @@
       },
       "versions": [
         {
-          "timestamp": 1759842129.0,
-          "version": "1.3.0-RC2 (606-b6f3a4a-release)",
-          "versionCode": 606,
-          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.3.0-RC2_606-b6f3a4a-release.zip",
-          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.3.0-RC2_606-b6f3a4a-release.md",
-          "size": 6254071
-        },
-        {
           "timestamp": 1760111643.0,
           "version": "1.3.0-RC3 (620-316eada-release)",
           "versionCode": 620,
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.3.0-RC3_620-316eada-release.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.3.0-RC3_620-316eada-release.md",
           "size": 6298158
+        },
+        {
+          "timestamp": 1761488962.0,
+          "version": "1.3.0-RC4 (638-45eea2d-release)",
+          "versionCode": 638,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.3.0-RC4_638-45eea2d-release.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.3.0-RC4_638-45eea2d-release.md",
+          "size": 6346123
         }
       ]
     },
