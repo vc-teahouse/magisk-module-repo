@@ -1,6 +1,6 @@
 enable: true
 id: ZygiskNext
-last_update: 1761488962.0
+last_update: 1762251825.0
 source: https://github.com/Dr-TSNG/ZygiskNext
 update_to: https://api.nullptr.icu/android/zygisk-next/static/update.json
 versions: 2
