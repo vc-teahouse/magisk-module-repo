@@ -3,20 +3,20 @@
   "timestamp": 1739148198.0,
   "versions": [
     {
-      "timestamp": 1753203209.0,
-      "version": "Mafuyu",
-      "versionCode": 276,
-      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Mafuyu_276.zip",
-      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Mafuyu_276.md",
-      "size": 15064
-    },
-    {
       "timestamp": 1755660787.0,
       "version": "Arona",
       "versionCode": 277,
       "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Arona_277.zip",
       "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Arona_277.md",
       "size": 17363
+    },
+    {
+      "timestamp": 1764148245.0,
+      "version": "Plana",
+      "versionCode": 278,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Plana_278.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Plana_278.md",
+      "size": 17775
     }
   ]
 }
