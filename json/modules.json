@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1765111826.547389
+    "timestamp": 1765132504.532542
   },
   "modules": [
     {
@@ -255,7 +255,8 @@
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.RESETPROP",
         "magisk.permission.SEPOLICY",
-        "mmrl.permission.APKS"
+        "mmrl.permission.APKS",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
@@ -300,7 +301,8 @@
         "magisk.permission.SEPOLICY",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI",
-        "mmrl.permission.APKS"
+        "mmrl.permission.APKS",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
@@ -442,7 +444,8 @@
       "permissions": [
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.SEPOLICY",
-        "mmrl.permission.APKS"
+        "mmrl.permission.APKS",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "post_fs_data": true,
@@ -608,7 +611,8 @@
       "permissions": [
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.SEPOLICY",
-        "mmrl.permission.APKS"
+        "mmrl.permission.APKS",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "post_fs_data": true,
