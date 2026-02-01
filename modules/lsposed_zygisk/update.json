@@ -3,20 +3,20 @@
   "timestamp": 1729070017.0,
   "versions": [
     {
-      "timestamp": 1729070017.0,
-      "version": "v1.10.1 (7115)",
-      "versionCode": 7115,
-      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.10.1_7115.zip",
-      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.10.1_7115.md",
-      "size": 2608607
-    },
-    {
       "timestamp": 1752362984.0,
       "version": "v1.10.2 (7182)",
       "versionCode": 7182,
       "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.10.2_7182.zip",
       "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.10.2_7182.md",
       "size": 6507377
+    },
+    {
+      "timestamp": 1769900057.0,
+      "version": "v1.11.0 (7209)",
+      "versionCode": 7209,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.11.0_7209.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.11.0_7209.md",
+      "size": 6785684
     }
   ]
 }

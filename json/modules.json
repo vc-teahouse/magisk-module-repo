@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1769885010.748878
+    "timestamp": 1769915946.05164
   },
   "modules": [
     {
@@ -286,31 +286,27 @@
     {
       "id": "lsposed_zygisk",
       "name": "Zygisk - LSPosed",
-      "version": "v1.10.2 (7182)",
-      "versionCode": 7182,
+      "version": "v1.11.0 (7209)",
+      "versionCode": 7209,
       "author": "JingMatrix & LSPosed Developers",
       "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16. Requires Magisk 26.0+ and Zygisk enabled.",
       "verified": false,
       "added": 0,
-      "timestamp": 1752362984.0,
-      "size": 6507377,
+      "timestamp": 1769900057.0,
+      "size": 6785684,
       "permissions": [
         "magisk.permission.SERVICE",
-        "magisk.permission.POST_FS_DATA",
         "magisk.permission.RESETPROP",
         "magisk.permission.SEPOLICY",
         "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI",
         "mmrl.permission.APKS",
         "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
-        "post_fs_data": true,
         "resetprop": true,
         "sepolicy": true,
         "action": true,
-        "webroot": true,
         "apks": true
       },
       "track": {
@@ -322,20 +318,20 @@
       },
       "versions": [
         {
-          "timestamp": 1729070017.0,
-          "version": "v1.10.1 (7115)",
-          "versionCode": 7115,
-          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.10.1_7115.zip",
-          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.10.1_7115.md",
-          "size": 2608607
-        },
-        {
           "timestamp": 1752362984.0,
           "version": "v1.10.2 (7182)",
           "versionCode": 7182,
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.10.2_7182.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.10.2_7182.md",
           "size": 6507377
+        },
+        {
+          "timestamp": 1769900057.0,
+          "version": "v1.11.0 (7209)",
+          "versionCode": 7209,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.11.0_7209.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/lsposed_zygisk/v1.11.0_7209.md",
+          "size": 6785684
         }
       ]
     },
