@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1771036968.975572
+    "timestamp": 1771052211.653409
   },
   "modules": [
     {
@@ -507,15 +507,15 @@
     },
     {
       "id": "uperf_games",
-      "name": "Uperf Game Turbo B",
-      "version": "\ufe0f1.47 beta",
-      "versionCode": 250912,
+      "name": "Uperf Game Turbo",
+      "version": "\ufe0f1.48 based on uperf 904",
+      "versionCode": 260101,
       "author": "Matt Yang\uff08\u541f\u60cb\u516e\u6539\uff09",
       "description": "\u2764\ufe0f\u6b22\u8fce\u4f7f\u7528Uperf Game Turbo\uff01\u4f7f\u7528\u65f6\u6709\u95ee\u9898\u53ef\u53cd\u9988\u81f3yinwanxi0107@gmail.com\u2764\ufe0f///\u2764\ufe0fStep into Enhanced Gaming with Uperf Game Turbo\uff01If you have any questions, please send feedback to yinwanxi0107@gmail.com\u2764\ufe0f",
       "verified": false,
       "added": 0,
-      "timestamp": 1760832300.0,
-      "size": 1949558,
+      "timestamp": 1771037989.0,
+      "size": 1952857,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -535,20 +535,20 @@
       },
       "versions": [
         {
-          "timestamp": 1757697604.0,
-          "version": "\ufe0f1.46 based on uperf 904",
-          "versionCode": 250805,
-          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.46_based_on_uperf_904_250805.zip",
-          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.46_based_on_uperf_904_250805.md",
-          "size": 1938688
-        },
-        {
           "timestamp": 1760832300.0,
           "version": "\ufe0f1.47 beta",
           "versionCode": 250912,
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.47_beta_250912.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.47_beta_250912.md",
           "size": 1949558
+        },
+        {
+          "timestamp": 1771037989.0,
+          "version": "\ufe0f1.48 based on uperf 904",
+          "versionCode": 260101,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.48_based_on_uperf_904_260101.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/uperf_games/1.48_based_on_uperf_904_260101.md",
+          "size": 1952857
         }
       ]
     },
