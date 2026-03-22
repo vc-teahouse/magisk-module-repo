@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1774118888.508357
+    "timestamp": 1774148093.902203
   },
   "modules": [
     {
@@ -87,14 +87,14 @@
     {
       "id": "ZygiskNext",
       "name": "Zygisk Next",
-      "version": "1.3.2 (688-2c60cdd-release)",
-      "versionCode": 688,
+      "version": "1.3.3 (731-1193e46-release)",
+      "versionCode": 731,
       "author": "5ec1cff, Nullptr",
       "description": "Standalone implementation of Zygisk.",
       "verified": false,
       "added": 0,
-      "timestamp": 1766946527.0,
-      "size": 5810459,
+      "timestamp": 1774139800.0,
+      "size": 5663703,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -116,20 +116,20 @@
       },
       "versions": [
         {
-          "timestamp": 1763287283.0,
-          "version": "1.3.1 (665-7e5b533-release)",
-          "versionCode": 665,
-          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.3.1_665-7e5b533-release.zip",
-          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.3.1_665-7e5b533-release.md",
-          "size": 6380762
-        },
-        {
           "timestamp": 1766946527.0,
           "version": "1.3.2 (688-2c60cdd-release)",
           "versionCode": 688,
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.3.2_688-2c60cdd-release.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.3.2_688-2c60cdd-release.md",
           "size": 5810459
+        },
+        {
+          "timestamp": 1774139800.0,
+          "version": "1.3.3 (731-1193e46-release)",
+          "versionCode": 731,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.3.3_731-1193e46-release.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.3.3_731-1193e46-release.md",
+          "size": 5663703
         }
       ]
     },
