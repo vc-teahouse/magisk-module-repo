@@ -3,20 +3,20 @@
   "timestamp": 1743093744.0,
   "versions": [
     {
-      "timestamp": 1781787014.0,
-      "version": "1.4.0 (768-37ee2d5-release)",
-      "versionCode": 768,
-      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.0_768-37ee2d5-release.zip",
-      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.0_768-37ee2d5-release.md",
-      "size": 5844399
-    },
-    {
       "timestamp": 1782053119.0,
       "version": "1.4.1 (780-9d7024c-release)",
       "versionCode": 780,
       "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.1_780-9d7024c-release.zip",
       "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.1_780-9d7024c-release.md",
       "size": 5898969
+    },
+    {
+      "timestamp": 1782134337.0,
+      "version": "1.4.2 (789-119aaa0-release)",
+      "versionCode": 789,
+      "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.2_789-119aaa0-release.zip",
+      "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.2_789-119aaa0-release.md",
+      "size": 7032593
     }
   ]
 }

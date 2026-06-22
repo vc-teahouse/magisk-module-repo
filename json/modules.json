@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1782130756.311151
+    "timestamp": 1782162477.918923
   },
   "modules": [
     {
@@ -87,14 +87,14 @@
     {
       "id": "ZygiskNext",
       "name": "Zygisk Next",
-      "version": "1.4.1 (780-9d7024c-release)",
-      "versionCode": 780,
+      "version": "1.4.2 (789-119aaa0-release)",
+      "versionCode": 789,
       "author": "5ec1cff, Nullptr",
       "description": "Standalone implementation of Zygisk.",
       "verified": false,
       "added": 0,
-      "timestamp": 1782053119.0,
-      "size": 5898969,
+      "timestamp": 1782134337.0,
+      "size": 7032593,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -116,20 +116,20 @@
       },
       "versions": [
         {
-          "timestamp": 1781787014.0,
-          "version": "1.4.0 (768-37ee2d5-release)",
-          "versionCode": 768,
-          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.0_768-37ee2d5-release.zip",
-          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.0_768-37ee2d5-release.md",
-          "size": 5844399
-        },
-        {
           "timestamp": 1782053119.0,
           "version": "1.4.1 (780-9d7024c-release)",
           "versionCode": 780,
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.1_780-9d7024c-release.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.1_780-9d7024c-release.md",
           "size": 5898969
+        },
+        {
+          "timestamp": 1782134337.0,
+          "version": "1.4.2 (789-119aaa0-release)",
+          "versionCode": 789,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.2_789-119aaa0-release.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.2_789-119aaa0-release.md",
+          "size": 7032593
         }
       ]
     },
