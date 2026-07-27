@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1785093697.669633
+    "timestamp": 1785124183.652093
   },
   "modules": [
     {
@@ -87,24 +87,26 @@
     {
       "id": "ZygiskNext",
       "name": "Zygisk Next",
-      "version": "1.4.2 (789-119aaa0-release)",
-      "versionCode": 789,
-      "author": "5ec1cff, Nullptr",
+      "version": "1.4.3 (817-e815170-release)",
+      "versionCode": 817,
+      "author": "5ec1cff, Nullptr, aviraxp",
       "description": "Standalone implementation of Zygisk.",
       "verified": false,
       "added": 0,
-      "timestamp": 1782134337.0,
-      "size": 7032593,
+      "timestamp": 1784202620.0,
+      "size": 7306746,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.SEPOLICY",
+        "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI"
       ],
       "features": {
         "service": true,
         "post_fs_data": true,
         "sepolicy": true,
+        "action": true,
         "webroot": true
       },
       "track": {
@@ -116,20 +118,20 @@
       },
       "versions": [
         {
-          "timestamp": 1782053119.0,
-          "version": "1.4.1 (780-9d7024c-release)",
-          "versionCode": 780,
-          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.1_780-9d7024c-release.zip",
-          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.1_780-9d7024c-release.md",
-          "size": 5898969
-        },
-        {
           "timestamp": 1782134337.0,
           "version": "1.4.2 (789-119aaa0-release)",
           "versionCode": 789,
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.2_789-119aaa0-release.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.2_789-119aaa0-release.md",
           "size": 7032593
+        },
+        {
+          "timestamp": 1784202620.0,
+          "version": "1.4.3 (817-e815170-release)",
+          "versionCode": 817,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.3_817-e815170-release.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.3_817-e815170-release.md",
+          "size": 7306746
         }
       ]
     },
