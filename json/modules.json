@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1785573004.968219
+    "timestamp": 1785591813.23783
   },
   "modules": [
     {
@@ -87,14 +87,14 @@
     {
       "id": "ZygiskNext",
       "name": "Zygisk Next",
-      "version": "1.4.3 (817-e815170-release)",
-      "versionCode": 817,
+      "version": "1.4.4 (831-98fd9c6-release)",
+      "versionCode": 831,
       "author": "5ec1cff, Nullptr, aviraxp",
       "description": "Standalone implementation of Zygisk.",
       "verified": false,
       "added": 0,
-      "timestamp": 1784202620.0,
-      "size": 7306746,
+      "timestamp": 1785584537.0,
+      "size": 7352670,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -118,20 +118,20 @@
       },
       "versions": [
         {
-          "timestamp": 1782134337.0,
-          "version": "1.4.2 (789-119aaa0-release)",
-          "versionCode": 789,
-          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.2_789-119aaa0-release.zip",
-          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.2_789-119aaa0-release.md",
-          "size": 7032593
-        },
-        {
           "timestamp": 1784202620.0,
           "version": "1.4.3 (817-e815170-release)",
           "versionCode": 817,
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.3_817-e815170-release.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.3_817-e815170-release.md",
           "size": 7306746
+        },
+        {
+          "timestamp": 1785584537.0,
+          "version": "1.4.4 (831-98fd9c6-release)",
+          "versionCode": 831,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.4_831-98fd9c6-release.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.4_831-98fd9c6-release.md",
+          "size": 7352670
         }
       ]
     },
