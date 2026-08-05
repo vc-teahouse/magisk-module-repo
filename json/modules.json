@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1785899952.557386
+    "timestamp": 1785919578.646553
   },
   "modules": [
     {
@@ -87,14 +87,14 @@
     {
       "id": "ZygiskNext",
       "name": "Zygisk Next",
-      "version": "1.4.4 (831-98fd9c6-release)",
-      "versionCode": 831,
+      "version": "1.4.5 (836-b13d58a-release)",
+      "versionCode": 836,
       "author": "5ec1cff, Nullptr, aviraxp",
       "description": "Standalone implementation of Zygisk.",
       "verified": false,
       "added": 0,
-      "timestamp": 1785584537.0,
-      "size": 7352670,
+      "timestamp": 1785905638.0,
+      "size": 7365185,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -118,20 +118,20 @@
       },
       "versions": [
         {
-          "timestamp": 1784202620.0,
-          "version": "1.4.3 (817-e815170-release)",
-          "versionCode": 817,
-          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.3_817-e815170-release.zip",
-          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.3_817-e815170-release.md",
-          "size": 7306746
-        },
-        {
           "timestamp": 1785584537.0,
           "version": "1.4.4 (831-98fd9c6-release)",
           "versionCode": 831,
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.4_831-98fd9c6-release.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.4_831-98fd9c6-release.md",
           "size": 7352670
+        },
+        {
+          "timestamp": 1785905638.0,
+          "version": "1.4.5 (836-b13d58a-release)",
+          "versionCode": 836,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.5_836-b13d58a-release.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.5_836-b13d58a-release.md",
+          "size": 7365185
         }
       ]
     },
