@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1786241820.850767
+    "timestamp": 1786259172.599921
   },
   "modules": [
     {
@@ -138,14 +138,14 @@
     {
       "id": "asoulopt",
       "name": "A-SOUL Games Optimization",
-      "version": "Shiroko",
-      "versionCode": 282,
+      "version": "Ibuki",
+      "versionCode": 283,
       "author": "nakixii",
       "description": "Game threads tweaker for Android.",
       "verified": false,
       "added": 0,
-      "timestamp": 1781432121.0,
-      "size": 17443,
+      "timestamp": 1786250657.0,
+      "size": 17545,
       "permissions": [
         "magisk.permission.SERVICE"
       ],
@@ -161,20 +161,20 @@
       },
       "versions": [
         {
-          "timestamp": 1776922107.0,
-          "version": "Kanata",
-          "versionCode": 281,
-          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Kanata_281.zip",
-          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Kanata_281.md",
-          "size": 17300
-        },
-        {
           "timestamp": 1781432121.0,
           "version": "Shiroko",
           "versionCode": 282,
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Shiroko_282.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Shiroko_282.md",
           "size": 17443
+        },
+        {
+          "timestamp": 1786250657.0,
+          "version": "Ibuki",
+          "versionCode": 283,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Ibuki_283.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/asoulopt/Ibuki_283.md",
+          "size": 17545
         }
       ]
     },
