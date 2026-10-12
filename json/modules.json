@@ -9,7 +9,7 @@
   "description": "luyanci's useful module repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1791783499.515864
+    "timestamp": 1791817680.687513
   },
   "modules": [
     {
@@ -87,14 +87,14 @@
     {
       "id": "ZygiskNext",
       "name": "Zygisk Next",
-      "version": "1.5.0 (843-5217106-release)",
-      "versionCode": 843,
-      "author": "5ec1cff, Nullptr, aviraxp",
+      "version": "1.5.1 (862-56ae062-release)",
+      "versionCode": 862,
+      "author": "LSPosed Developers",
       "description": "Standalone implementation of Zygisk.",
       "verified": false,
       "added": 0,
-      "timestamp": 1787705664.0,
-      "size": 7529581,
+      "timestamp": 1791815458.0,
+      "size": 6682412,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -118,20 +118,20 @@
       },
       "versions": [
         {
-          "timestamp": 1785905638.0,
-          "version": "1.4.5 (836-b13d58a-release)",
-          "versionCode": 836,
-          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.5_836-b13d58a-release.zip",
-          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.4.5_836-b13d58a-release.md",
-          "size": 7365185
-        },
-        {
           "timestamp": 1787705664.0,
           "version": "1.5.0 (843-5217106-release)",
           "versionCode": 843,
           "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.5.0_843-5217106-release.zip",
           "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.5.0_843-5217106-release.md",
           "size": 7529581
+        },
+        {
+          "timestamp": 1791815458.0,
+          "version": "1.5.1 (862-56ae062-release)",
+          "versionCode": 862,
+          "zipUrl": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.5.1_862-56ae062-release.zip",
+          "changelog": "https://vc-teahouse.github.io/magisk-module-repo/modules/ZygiskNext/1.5.1_862-56ae062-release.md",
+          "size": 6682412
         }
       ]
     },
